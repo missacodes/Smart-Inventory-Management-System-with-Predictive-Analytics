@@ -1,3 +1,5 @@
+Smart Inventory Management System With Predictive Analytics
+
 # InventoryTracker
 
 A simple inventory management API built with FastAPI.
